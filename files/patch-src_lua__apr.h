@@ -1,4 +1,4 @@
---- src/lua_apr.h.orig	2016-01-15 19:25:07 UTC
+--- src/lua_apr.h.orig	2011-12-07 22:02:02 UTC
 +++ src/lua_apr.h
 @@ -227,7 +227,6 @@ extern lua_apr_objtype lua_apr_queue_typ
  extern lua_apr_objtype lua_apr_pollset_type;
