@@ -1,4 +1,4 @@
---- test/proc.lua.orig	2016-01-19 19:55:02 UTC
+--- test/proc.lua.orig	2011-12-07 22:02:02 UTC
 +++ test/proc.lua
 @@ -17,7 +17,7 @@ end
  local helpers = require 'apr.test.helpers'

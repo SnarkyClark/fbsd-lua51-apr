@@ -1,4 +1,4 @@
---- test/io_net.lua.orig	2016-01-19 19:53:59 UTC
+--- test/io_net.lua.orig	2011-12-07 22:02:02 UTC
 +++ test/io_net.lua
 @@ -29,7 +29,7 @@ if not rdns_ok then
  end

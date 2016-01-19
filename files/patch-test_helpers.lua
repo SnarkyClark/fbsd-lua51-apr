@@ -1,4 +1,4 @@
---- test/helpers.lua.orig	2016-01-19 19:44:19 UTC
+--- test/helpers.lua.orig	2011-12-07 22:02:02 UTC
 +++ test/helpers.lua
 @@ -93,22 +93,7 @@ end
  
